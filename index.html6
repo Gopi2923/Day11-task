@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>
+        Document
+    </title>
+
+</head>
+
+<body>
+    <label for="fname"> Employee Type</label><br>
+    <input type="radio" name="fname" id="fmane">
+    <label for="mname"> Salaried </label><br>
+    <input type="radio" name="lname" id="lname">
+    <label for="lname"> Own Bussiness </label>
+</body>
+
+</html>
